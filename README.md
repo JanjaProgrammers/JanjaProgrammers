@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JanjaProgrammers
 - 👀 I’m interested in Software Enginerring
 - 💞️ I’m looking to collaborate on serious projects
-- 📫 How to reach me via email <a href="mailto:janjaprogrammers@gmail.com">janjaprogrammers@gmail.com</a>
+- 📫 Reach me via email: <a href="mailto:janjaprogrammers@gmail.com">janjaprogrammers@gmail.com</a>
 - 😄 Pronouns: They
 - ⚡ Fun fact: We are the best version and always breaking our records,
 
